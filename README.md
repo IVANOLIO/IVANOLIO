@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial intelligence 
 - 🌱 I’m currently learning (I currently have a baccalaureate, and I am not studying anything) 
 - 💞️ I’m looking to collaborate on Telegram bot 
-- 📫 How to reach me TG: @STRIKE01
+- 📫 How to reach me TG: https://t.me/lVAN_IVANOVIO
 
 <!---
 IVANOLIO/IVANOLIO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
